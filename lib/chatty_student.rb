@@ -8,10 +8,8 @@ class ChattyStudent < student
   end 
   
   def raise_hand 
-<<<<<<< HEAD
+    
     puts "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n"
   end 
-=======
-    puts 
->>>>>>> 1227de5d5093d7f37da507ae5046116baf01f2f4
+  
 end 
